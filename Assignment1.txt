@@ -1,0 +1,24 @@
+andre@DESKTOP-BI5KQ31 MINGW64 ~/Documents/Ironhack/lab-bash (master)
+$ echo hello world
+hello world
+
+$ mkdir new_dir
+
+$ rmdir new_dir
+
+$ cp sed.txt lorem-copy
+
+$ cp lorem.txt lorem-copy; cp at.txt lorem-copy
+
+$ notepad sed.txt
+
+$ notepad at.txt; notepad lorem.txt
+
+$ head -3 sed.txt |
+> while read a; do
+>   echo $a;
+> done
+
+
+
+
